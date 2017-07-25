@@ -7,7 +7,12 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
 import com.itstyle.jpa.model.User;
-
+/**
+ * 数据操作层
+ * 创建者 科帮网
+ * 创建时间	2017年7月25日
+ *
+ */
 public interface UserRepository extends JpaRepository<User, Long> {
 
 	User findByName(String name);

@@ -26,7 +26,7 @@ public class SpringbootJpaApplication implements CommandLineRunner {
 			User user = new User();
 			user.setName("张三");
 			user.setAge(20);
-			//userRepository.save(user);
+			userRepository.save(user);
 			List<User> u = userRepository.findByNameLike("%张三%");
 			System.out.println(u.size());
 			User  us =  userRepository.findByAge(20);

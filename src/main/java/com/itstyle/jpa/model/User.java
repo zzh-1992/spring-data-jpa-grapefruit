@@ -8,7 +8,12 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+/**
+ * 用户实体(此处注意引用的注解包为javax.persistence*下面的)
+ * 创建者 科帮网
+ * 创建时间	2017年7月25日
+ *
+ */
 @Entity
 @Table(name = "sys_user")
 public class User implements Serializable{
