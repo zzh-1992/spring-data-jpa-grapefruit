@@ -2,9 +2,11 @@
 *.classpath
 *.gitignore
 *.settings
+*.project
 # Package Files #
 *.jar
 *.war
 *.ear
 /target/
+/log/
 /.settings/
