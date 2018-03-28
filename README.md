@@ -30,9 +30,29 @@ Entitymanager的核心概念图：
 
 ![](https://gitee.com/uploads/images/2018/0328/144319_e5658f37_87650.jpeg "1190778-20171004143209911-1516587547.jpg")
 
+## Swagger2测试
+
+![输入图片说明](https://gitee.com/uploads/images/2018/0328/144439_3a51d954_87650.png "1.png")
+
+返回List< Object[] >：
+
+![输入图片说明](https://gitee.com/uploads/images/2018/0328/144446_7837e24f_87650.png "2.png")
+
+返回List< Map< Object, Object > >：
+
+![输入图片说明](https://gitee.com/uploads/images/2018/0328/144451_30e7d82a_87650.png "3.png")
+
+返回List< Student >：
+
+![输入图片说明](https://gitee.com/uploads/images/2018/0328/144458_555052d0_87650.png "4.png")
+
 
 作者： 小柒2012
 
 欢迎关注： https://blog.52itstyle.com
 
-详细说明：https://blog.52itstyle.com/archives/1297/
+详细说明：
+
+https://blog.52itstyle.com/archives/1297/
+
+https://blog.52itstyle.com/archives/2582/
