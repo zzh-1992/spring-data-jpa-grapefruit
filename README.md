@@ -1,5 +1,3 @@
-![输入图片说明](https://blog.52itstyle.com/usr/uploads/58ad45c0b9e21.gif "在这里输入图片标题")
-
 > 即使你是天才，如果你不努力，你也会被其它人超越。
 
 ![201509100645102367.jpg](https://blog.52itstyle.com/usr/uploads/2017/07/124857438.jpg)
