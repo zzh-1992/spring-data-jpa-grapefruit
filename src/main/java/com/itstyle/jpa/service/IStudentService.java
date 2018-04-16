@@ -35,4 +35,22 @@ public interface IStudentService {
       *
       */
      List<Map<Object, Object>> listStudentMap();
+     /**
+      * 批量插入
+      * @Author  科帮网  void
+      * @Date	2018年4月16日
+      * 更新日志
+      * 2018年4月16日  科帮网 首次创建
+      *
+      */
+     void batchSave();
+     /**
+      * 并行任务
+      * @Author  科帮网  void
+      * @Date	2018年4月16日
+      * 更新日志
+      * 2018年4月16日  科帮网 首次创建
+      *
+      */
+     void statsDemo()throws Exception;
 }

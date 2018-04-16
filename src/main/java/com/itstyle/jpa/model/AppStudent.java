@@ -27,6 +27,12 @@ public class AppStudent {
 		this.name = name;
 		this.age = age;
 	}
+	public AppStudent(Integer classId, String name, Integer age) {
+		super();
+		this.classId = classId;
+		this.name = name;
+		this.age = age;
+	}
 	public Integer getId() {
 		return id;
 	}
